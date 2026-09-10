@@ -1,8 +1,4 @@
-# Base de Datos - Taller Tienda
 
-## Código SQL
-
-```sql
 CREATE DATABASE IF NOT EXISTS taller_tienda;
 
 USE taller_tienda;
